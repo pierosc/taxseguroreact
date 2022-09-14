@@ -11,6 +11,9 @@ import './assets/css/style.css';
 import Recentact from './components/Recentact';
 import ItinRecordsSearch from './Pages/ItinRecordsSearch';
 import RecordsSearch from './Pages/RecordsSearch';
+import SearchPage from './Pages/SearchPage';
+import AddNewCustomer from './Pages/AddNewCustomer';
+import Taxhome from './Pages/Taxhome';
 
 function App() {
   const [selection, setselection] = useState('')
@@ -31,12 +34,12 @@ function App() {
       <div class="col-xxl-9 col-xl-12">
       { selection == "ItinRecordsSearch" ? <ItinRecordsSearch /> : 
       selection == "RecordsSearch" ? <RecordsSearch /> :
-      selection == "SearchUser" ? <Report /> :
-      selection == "AddNewCostumer" ? <Report /> :
-      selection == "PreparersList" ? <Report /> :
-      selection == "MailRecordsSearch" ? <Report /> :
-      selection == "PendingCases" ? <Report /> :
-      <Report />}
+      selection == "SearchUser" ? <SearchPage /> :
+      selection == "AddNewCostumer" ? <AddNewCustomer /> :
+      selection == "PreparersList" ? <Taxhome /> :
+      selection == "MailRecordsSearch" ? <Taxhome /> :
+      selection == "PendingCases" ? <Taxhome /> :
+      <Taxhome />}
       </div>
 
       <div class="col-xxl-3 col-xl-12">

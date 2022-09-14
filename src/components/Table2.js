@@ -33,7 +33,9 @@ function Table2(props) {
                     <td>Jose Calderon</td>
                     <td>2016-05-25</td>
                     <td>951951951</td>
-                    <td>2016</td>
+                    <td>2016-02-02</td>
+                    <td>New Appt.</td>
+                    <td>123456789</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
@@ -43,7 +45,9 @@ function Table2(props) {
                     <td>Jose Calderon</td>
                     <td>2016-05-25</td>
                     <td>951951951</td>
-                    <td>2016</td>
+                    <td>2016-02-02</td>
+                    <td>New Appt.</td>
+                    <td>123456789</td>
                   </tr>
                   <tr>
                     <th scope="row">3</th>
@@ -53,7 +57,9 @@ function Table2(props) {
                     <td>Jose Calderon</td>
                     <td>2016-05-25</td>
                     <td>951951951</td>
-                    <td>2020</td>
+                    <td>2020-02-02</td>
+                    <td>New Appt.</td>
+                    <td>123456789</td>
                   </tr>
                   <tr>
                     <th scope="row">4</th>
@@ -63,7 +69,9 @@ function Table2(props) {
                     <td>Jose Calderon</td>
                     <td>2016-05-25</td>
                     <td>951951951</td>
-                    <td>2019</td>
+                    <td>2019-02-02</td>
+                    <td>New Appt.</td>
+                    <td>123456789</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
@@ -73,7 +81,9 @@ function Table2(props) {
                     <td>Jose Calderon</td>
                     <td>2016-05-25</td>
                     <td>951951951</td>
-                    <td>2018</td>
+                    <td>2018-02-02</td>
+                    <td>New Appt.</td>
+                    <td>123456789</td>
                   </tr>
                 </tbody>
               </table>

@@ -7,10 +7,10 @@ function RecordsSearch() {
     return (
         <div> 
         <div class="row">
-        <div class="col-xxl-5 col-xl-12">
+        <div class="col-xxl-7 col-xl-12">
           <Search />
         </div>
-        <div class="col-xxl-7 col-xl-12">
+        <div class="col-xxl-5 col-xl-12">
           <Button2 />
         </div> 
     
