@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taxseguroreact/static/css/main.41f03003.css",
+    "main.js": "/taxseguroreact/static/js/main.310b4cfc.js",
+    "index.html": "/taxseguroreact/index.html",
+    "main.41f03003.css.map": "/taxseguroreact/static/css/main.41f03003.css.map",
+    "main.310b4cfc.js.map": "/taxseguroreact/static/js/main.310b4cfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f03003.css",
+    "static/js/main.310b4cfc.js"
+  ]
+}
